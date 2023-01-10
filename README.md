@@ -16,7 +16,9 @@ AZURE TECHNOLOGIES USED FOR PROJECT
 -User knows about the korona and the steps to protct themselves
 -included healthbot
 ##SCREENSHOTS##
+
 ^^Home Page^^
+
 ![Screenshot (40)](https://user-images.githubusercontent.com/116490802/211469300-1837f56f-cc36-4ce3-8b4d-bad0fa6d6b9e.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/116490802/211469331-47058179-b801-4bad-be0d-c1e1106c15e4.png)
 ![Screenshot (42)](https://user-images.githubusercontent.com/116490802/211469336-afcc34ef-adce-49b4-9504-0845e063497a.png)
@@ -26,6 +28,7 @@ AZURE TECHNOLOGIES USED FOR PROJECT
 ![Screenshot (46)](https://user-images.githubusercontent.com/116490802/211469356-f262b54b-f940-40ef-a784-10affa80f92a.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/116490802/211469364-d2797816-c03f-4aab-b916-4d7279317e84.png)
 ![Screenshot (48)](https://user-images.githubusercontent.com/116490802/211469366-5f6187a0-1494-44ee-9e85-d82b4f903b97.png)
+
 ^^About Page^^
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/116490802/211469526-3621f7e8-9c5d-4f09-b3f5-dfe9e5208236.png)

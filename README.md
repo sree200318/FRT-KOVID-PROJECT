@@ -3,7 +3,7 @@ This is a web based  health application has been developed for the accomplishmen
 
 ***Project_link*** - https://orange-grass-03f27da00.2.azurestaticapps.net/about.html
 
-***Project_video link *** -
+***Project_video link *** -https://youtu.be/JI7bXhC_4mM
 
 AZURE TECHNOLOGIES USED FOR PROJECT
 1.Static Web App
